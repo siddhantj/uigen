@@ -1,0 +1,122 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - heading "React Component Generator" [level=1] [ref=e7]
+      - generic [ref=e9]:
+        - generic [ref=e15]:
+          - generic [ref=e52]:
+            - generic [ref=e55]: Create a pricing card component for a SaaS product. It should show a plan name, price per month, a feature list with checkmarks, and a call-to-action button.
+            - img [ref=e58]
+          - generic [ref=e78]:
+            - img [ref=e81]
+            - generic [ref=e86]:
+              - generic [ref=e89]: str_replace_editor
+              - separator [ref=e90]
+              - generic [ref=e93]: str_replace_editor
+              - separator [ref=e94]
+              - generic [ref=e95]:
+                - paragraph [ref=e96]: "Done! Created a pricing card component with:"
+                - list [ref=e97]:
+                  - listitem [ref=e98]: Plan name, monthly price, and description
+                  - listitem [ref=e99]: Feature list with checkmarks
+                  - listitem [ref=e100]: Call-to-action button
+                  - listitem [ref=e101]: Highlighted "Most Popular" option with special styling
+                  - listitem [ref=e102]: Hover effects and responsive grid layout
+                - paragraph [ref=e103]: The App.jsx shows 3 example plans (Starter, Professional, Enterprise) that you can customize.
+        - generic [ref=e23]:
+          - textbox "Describe the React component you want to create..." [ref=e24]
+          - button [disabled] [ref=e25]:
+            - img [ref=e26]
+    - separator [ref=e29]
+    - generic [ref=e31]:
+      - generic [ref=e32]:
+        - tablist [ref=e34]:
+          - tab "Preview" [selected] [ref=e35]
+          - tab "Code" [ref=e36]
+        - generic [ref=e37]:
+          - button "Sign In" [ref=e38]
+          - button "Sign Up" [ref=e39]
+      - iframe [ref=e77]:
+        - generic [ref=f2e4]:
+          - generic [ref=f2e5]:
+            - heading "Simple, Transparent Pricing" [level=1] [ref=f2e6]
+            - paragraph [ref=f2e7]: Choose the perfect plan for your needs
+          - generic [ref=f2e8]:
+            - generic [ref=f2e10]:
+              - heading "Starter" [level=3] [ref=f2e11]
+              - paragraph [ref=f2e12]: Perfect for getting started
+              - generic [ref=f2e13]:
+                - generic [ref=f2e14]: $29
+                - text: /month
+              - button "Get Started" [ref=f2e15] [cursor=pointer]
+              - generic [ref=f2e16]:
+                - generic [ref=f2e17]:
+                  - img [ref=f2e18]
+                  - generic [ref=f2e20]: Up to 10 projects
+                - generic [ref=f2e21]:
+                  - img [ref=f2e22]
+                  - generic [ref=f2e24]: 5GB storage
+                - generic [ref=f2e25]:
+                  - img [ref=f2e26]
+                  - generic [ref=f2e28]: Basic analytics
+                - generic [ref=f2e29]:
+                  - img [ref=f2e30]
+                  - generic [ref=f2e32]: Email support
+            - generic [ref=f2e33]:
+              - generic [ref=f2e34]: MOST POPULAR
+              - generic [ref=f2e35]:
+                - heading "Professional" [level=3] [ref=f2e36]
+                - paragraph [ref=f2e37]: For growing teams
+                - generic [ref=f2e38]:
+                  - generic [ref=f2e39]: $79
+                  - text: /month
+                - button "Start Free Trial" [ref=f2e40] [cursor=pointer]
+                - generic [ref=f2e41]:
+                  - generic [ref=f2e42]:
+                    - img [ref=f2e43]
+                    - generic [ref=f2e45]: Unlimited projects
+                  - generic [ref=f2e46]:
+                    - img [ref=f2e47]
+                    - generic [ref=f2e49]: 100GB storage
+                  - generic [ref=f2e50]:
+                    - img [ref=f2e51]
+                    - generic [ref=f2e53]: Advanced analytics
+                  - generic [ref=f2e54]:
+                    - img [ref=f2e55]
+                    - generic [ref=f2e57]: Priority email support
+                  - generic [ref=f2e58]:
+                    - img [ref=f2e59]
+                    - generic [ref=f2e61]: Custom integrations
+                  - generic [ref=f2e62]:
+                    - img [ref=f2e63]
+                    - generic [ref=f2e65]: Team collaboration
+            - generic [ref=f2e67]:
+              - heading "Enterprise" [level=3] [ref=f2e68]
+              - paragraph [ref=f2e69]: For large organizations
+              - generic [ref=f2e70]:
+                - generic [ref=f2e71]: $199
+                - text: /month
+              - button "Contact Sales" [ref=f2e72] [cursor=pointer]
+              - generic [ref=f2e73]:
+                - generic [ref=f2e74]:
+                  - img [ref=f2e75]
+                  - generic [ref=f2e77]: Unlimited everything
+                - generic [ref=f2e78]:
+                  - img [ref=f2e79]
+                  - generic [ref=f2e81]: 1TB storage
+                - generic [ref=f2e82]:
+                  - img [ref=f2e83]
+                  - generic [ref=f2e85]: Real-time analytics
+                - generic [ref=f2e86]:
+                  - img [ref=f2e87]
+                  - generic [ref=f2e89]: 24/7 phone support
+                - generic [ref=f2e90]:
+                  - img [ref=f2e91]
+                  - generic [ref=f2e93]: Custom integrations
+                - generic [ref=f2e94]:
+                  - img [ref=f2e95]
+                  - generic [ref=f2e97]: Dedicated account manager
+                - generic [ref=f2e98]:
+                  - img [ref=f2e99]
+                  - generic [ref=f2e101]: SLA guarantee
+  - alert [ref=e51]
